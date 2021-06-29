@@ -16,11 +16,10 @@ The task in [AGENDA](https://github.com/rikdz/GraphWriter) is to take an input g
 
 | Model           | BLEU | METEOR |  Paper / Source | Code |
 | --------------- | :--: | :----: | --------------- | ---- |
-| GraphWriter     | 14.30 | 18.80 | [Text Generation from Knowledge Graphs with Graph Transformers](https://www.aclweb.org/anthology/N19-1238.pdf) | [Official](https://github.com/rikdz/GraphWriter) |
-| Graformer       | 17.80 | 22.07 | [Modeling Graph Structure via Relative Position for Text Generation from Knowledge Graphs](https://www.aclweb.org/anthology/2021.textgraphs-1.2.pdf) | [Official](https://github.com/mnschmit/graformer) |
-| CGE-LW | 18.01 | 22.34 | [Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs](https://www.aclweb.org/anthology/2020.tacl-1.38.pdf) | [Official](https://github.com/UKPLab/kg2text) |
 | BART-large | 23.65 | 25.19 | [Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/pdf/2007.08426.pdf) | [Official](https://github.com/UKPLab/plms-graph2text) |
-
+| CGE-LW | 18.01 | 22.34 | [Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs](https://www.aclweb.org/anthology/2020.tacl-1.38.pdf) | [Official](https://github.com/UKPLab/kg2text) |
+| Graformer       | 17.80 | 22.07 | [Modeling Graph Structure via Relative Position for Text Generation from Knowledge Graphs](https://www.aclweb.org/anthology/2021.textgraphs-1.2.pdf) | [Official](https://github.com/mnschmit/graformer) |
+| GraphWriter     | 14.30 | 18.80 | [Text Generation from Knowledge Graphs with Graph Transformers](https://www.aclweb.org/anthology/N19-1238.pdf) | [Official](https://github.com/rikdz/GraphWriter) |
 
 
 ### WebNLG
